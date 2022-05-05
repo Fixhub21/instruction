@@ -71,10 +71,3 @@ _Привет_
 
 * git checkout _branch name_
 
-Чтобы слить две ветки используй команду
-
-* git merge _branch name_
-
-
-Чтобы удалить ветку используй команду
-* git branch -d _branch name_
