@@ -76,3 +76,5 @@ _Привет_
 * git merge _branch name_
 
 
+Чтобы удалить ветку используй команду
+* git branch -d _branch name_
