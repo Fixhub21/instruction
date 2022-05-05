@@ -88,3 +88,8 @@ _Привет_
 Чтобы вызвать справку для команды, нужно добавить 
 
 * git checkout --help
+
+Примеры
+* git add --help
+* git commit --help
+* git branch --help
